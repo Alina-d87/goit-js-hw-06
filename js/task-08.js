@@ -1,10 +1,8 @@
 const refForm = document.querySelector('.login-form');
-//console.log(refForm);
+
 const refBtn = document.querySelector('button');
-//console.log(refBtn);
 
 const refInputAll = document.querySelectorAll('input');
-//console.log(refInputAll);
 
 refForm.addEventListener('submit', onSubmitForm);
 

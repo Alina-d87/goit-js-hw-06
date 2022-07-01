@@ -1,5 +1,4 @@
 const refInput = document.querySelector('#validation-input');
-console.log(refInput);
 
 refInput.addEventListener('input', onInputText);
 
